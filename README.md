@@ -4,8 +4,8 @@ Hello! I'm Beatriz Bispo 👋
 
   <div>
     <a href="https://github.com/bibispo">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=bibispo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibispo&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=bibispo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibispo&layout=compact&langs_count=16&theme=dracula"/>
   </div>
 
   <div style="display: inline_block"><br>
