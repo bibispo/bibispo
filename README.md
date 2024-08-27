@@ -1,6 +1,5 @@
 Hello! I'm Beatriz Bispo 👋
 - 🌱 Estudando Java
-- 😄 Pronouns: ela/dela
 
   <div>
     <a href="https://github.com/bibispo">
