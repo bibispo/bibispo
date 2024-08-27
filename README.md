@@ -17,4 +17,8 @@ Hello! I'm Beatriz Bispo 👋
    <img aling="center" alt="Rafa-Java" height="30" width="40" src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
-###
+##
+
+<div>
+  <a href="https://instagram.com/bibispo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+</div>
