@@ -23,4 +23,10 @@ Hello! I'm Beatriz Bispo 👋
   <a href="https://instagram.com/bibispo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "mailto:beatrizbispo006.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-    </div>
+  <picture>
+   <sourse media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibispo/bibispo/output/github-contribution-grid-snake-dark.svg">
+   <sourse media="(prefers-color-scheme: light)" srcset="https://raw.githubsercontent.com/bibispo/bibispooutput/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bibispo/bibispo/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br><br>
+  
